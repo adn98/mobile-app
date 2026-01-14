@@ -1,4 +1,4 @@
-# Project 8 – PHP Web Application
+# Web Application
 
 This project was developed during my **internship** as part of hands-on training in web development.
 The project demonstrates core concepts of **PHP, MySQL, HTML, CSS**, and basic web application flow such as user interaction, dynamic content rendering, and database connectivity.
